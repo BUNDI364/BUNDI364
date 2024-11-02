@@ -1,6 +1,6 @@
 - 👋 Hi, I’m IBRAHIM BUNDI NYAKUNDI.
 - 👀 I’m interested in Web and app development.
-- 🌱 I’m currently learning HTTP,CSS,CS ,JAVA and JAVASCRIPT 
+- 🌱 I’m currently learning HTML,CSS,CS ,JAVA and JAVASCRIPT 
 - 💞️ I’m looking to collaborate on any frontend  web project.
 
 - 😄 Pronouns: .. he/him.
